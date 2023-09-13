@@ -8,7 +8,7 @@ import {
 import Home from './Home'
 import HomeAdmin from './HomeAdmin'
 import HomeUser from './HomeUser'
-import Owner from './owner'
+import Owner from './Owner'
 
 const router = createBrowserRouter([
 {
